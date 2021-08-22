@@ -39,4 +39,4 @@
 | /topic  | Kanalthema ändern  | /topic Neues Topic / /topic -delete  |
 | /upload  | eine Datei hochladen  | /upload DATEI  |
 | /send-anyways  | Senden Sie die letzte Nachricht in einem Raum, obwohl es nicht verifizierte Geräte gibt. Die nicht verifizierten Geräte werden nach Ausführung dieses Befehls als ignoriert markiert.  |   |
-| /reply-matrix  | Auf eine Nachricht antworten  | s. /help reply-matrix  |
+| /reply-matrix  | Auf eine Nachricht antworten  | s. /help reply-matrix  (**[Funktioniert im Moment nicht](https://github.com/poljar/weechat-matrix/issues/233)**)|
